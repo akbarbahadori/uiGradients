@@ -1533,4 +1533,8 @@
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
     }
+    {
+        "name": "Magenta Blue",
+        "colors": ["#bf41fd","#9e36fc", "#8a57fc"]
+    }
 ]
